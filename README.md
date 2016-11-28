@@ -1,3 +1,7 @@
+This is a copy of the Unstructured Text Parser class with modifications to parse Energy Plus idf files
+
+
+
 Unstructured Text Parser [PHP]
 ===========================================
 [![Build Status](https://travis-ci.org/aymanrb/php-unstructured-text-parser.svg?branch=master)](https://travis-ci.org/aymanrb/php-unstructured-text-parser)
