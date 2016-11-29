@@ -326,7 +326,8 @@ class TextParser {
             $this->saveLog();
             exit;
         } else {
-            throw new Exception($errorMessage);
+            // throw new Exception($errorMessage);
+            return "not working";
         }
     }
 }
